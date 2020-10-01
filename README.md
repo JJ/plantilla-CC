@@ -1,7 +1,7 @@
 Clases de Cloud Computing
 ======
 
-[![Build Status](https://travis-ci.org/JJ/CC-18-19.svg?branch=master)](https://travis-ci.org/JJ/CC-18-19)
+<-- Añadir badge de Travis -->
 
 ## Cloud Computing I COMO
 
